@@ -4,3 +4,5 @@ F_MNIST_data
 10_Monkey_*
 best.pt
 runs
+*.zip
+images
