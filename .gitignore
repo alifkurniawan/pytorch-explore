@@ -6,3 +6,5 @@ best.pt
 runs
 *.zip
 images
+runs
+*.txt
