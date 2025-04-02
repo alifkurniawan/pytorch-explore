@@ -8,3 +8,8 @@ runs
 images
 runs
 *.txt
+caltech*
+runs
+best_model.pt
+*.png
+*.jpg
