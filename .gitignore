@@ -13,3 +13,4 @@ runs
 best_model.pt
 *.png
 *.jpg
+best.pt
