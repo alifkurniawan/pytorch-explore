@@ -15,3 +15,7 @@ best_model.pt
 *.jpg
 best.pt
 inference_data
+*.pt
+pothole_dataset_v8/*
+.DS_Store
+.DS_Store
